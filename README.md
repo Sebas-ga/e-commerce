@@ -1,4 +1,3 @@
-# e-commerce
 proyecto e-commerce con JavaScript
 
 Este proyecto implementa un carrito de compras dinámico utilizando JavaScript, SweetAlert2 para notificaciones y almacenamiento en LocalStorage para persistencia de datos.  
