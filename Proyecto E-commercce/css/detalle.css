@@ -1,0 +1,25 @@
+.detalle-header {
+  display: flex;
+  justify-content: flex-start; /* alineado a la izquierda */
+  align-items: center;
+  padding: 10px;
+}
+h2{
+  text-align: center;
+  text: wrap 20px;
+  color: white;
+}
+
+#volver-btn {
+  padding: 8px 16px;
+  border: none;
+  background: #3498db;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+#volver-btn:hover {
+  background: #2980b9;
+}

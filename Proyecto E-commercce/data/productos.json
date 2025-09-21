@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "nombre": "Destornillador Daewo,DasD15",
+    "descripcion": "Inalámbrico",
+    "precio": 80000,
+    "oferta": 65000,
+    "imagen": "img/destornillador.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Amoladora angular 115 mm 600W",
+    "descripcion": "Eléctrica",
+    "precio": 50000,
+    "oferta": 40000,
+    "imagen": "img/amoladora.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Caja Plástica 12'",
+    "descripcion": "Largo 45 x 22 x 20",
+    "precio": 35000,
+    "oferta": 28000,
+    "imagen": "img/caja.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Caladora de banco",
+    "descripcion": "120W con luz incorporada",
+    "precio": 165000,
+    "oferta": 150000,
+    "imagen": "img/caladora2.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Cepilladora de banco 30cm",
+    "descripcion": "2000 W",
+    "precio": 350000,
+    "oferta": 250000,
+    "imagen": "img/cepilladora.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Prensa sargento 50 por 15",
+    "descripcion": "Prensas",
+    "precio": 20000,
+    "oferta": 15000,
+    "imagen": "img/prensa.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Taladro 10 mm 1500 W",
+    "descripcion": "Eléctrica",
+    "precio": 40000,
+    "oferta": 35000,
+    "imagen": "img/taladro.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Sierra Circular de mano",
+    "descripcion": "1500 W 7'",
+    "precio": 95000,
+    "oferta": 85000,
+    "imagen": "img/circular.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Lijadora de mano orbital",
+    "descripcion": "200 W",
+    "precio": 35000,
+    "oferta": 25000,
+    "imagen": "img/lijadora.png"
+  },
+  {
+    "id": 10,
+    "nombre": "Fresadora Router de mano",
+    "descripcion": "Tupi 500W",
+    "precio": 50000,
+    "oferta": 45000,
+    "imagen": "img/fresadora.png"
+  },
+  {
+    "id": 11,
+    "nombre": "Garlopa de mano",
+    "descripcion": "2000 W",
+    "precio": 150000,
+    "oferta": 120000,
+    "imagen": "img/garlopa.png"
+  },
+  {
+  "id":13,
+   "nombre":"Grapadora de mano",
+   "descripcion":"2000 W",
+   "precio":150000,
+    "oferta": 120000,
+    "imagen": "img/grapadora.png"
+}
+]
